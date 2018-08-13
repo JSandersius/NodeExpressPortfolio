@@ -1,16 +1,20 @@
 
-doctype
-head
-    include styles
-body
-    include header
-    .page-content
-    include footer
+ extends layout
+
+ block content
+   h1= title
+ p Welcome to #{title}
 
 
- //-   extends layout
 
-//- block content
-//-   h1= title
-//-   p Welcome to #{title}
+
+
+//- doctype
+//- head
+//-     include styles
+//- body
+//-     include header
+//-     .page-content
+//-     include footer
+
 
