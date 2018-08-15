@@ -33,6 +33,11 @@ html,body{
   background: linear-gradient(270deg, #93aaa4, #3c4b47);
 background-size: 400% 400%;
 
+
+
+
+/* gradient change css */
+
 -webkit-animation: AnimationName 19s ease infinite;
 -moz-animation: AnimationName 19s ease infinite;
 -o-animation: AnimationName 19s ease infinite;
