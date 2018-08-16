@@ -106,6 +106,10 @@ button {
 }
 
 
+/* alphabet color for name */
+/* alphabet color for name */
+/* alphabet color for name */
+
 #a {
 color: #2196f3;
   }
@@ -241,40 +245,6 @@ html {
     background-size: cover;
 }
 
-/* .bgimg-1 {
-    background-image: url("../images/volcano1.jpg");
-    min-height: 100%;
-}
-
-.bgimg-2 {
-    background-image: url("../images/volcano2.jpg");
-    min-height: 400px;
-}
-
-.bgimg-3 {
-    background-image: url("../images/volcano3.jpg");
-    min-height: 400px;
-}
-
-.bgimg-4 {
-    background-image: url("../images/volcano4.jpg");
-    min-height: 400px;
-}
-
-.bgimg-5 {
-    background-image: url("../images/volcano5.jpg");
-    min-height: 400px;
-}
-
-.bgimg-6 {
-    background-image: url("../images/volcano6.jpg");
-    min-height: 400px;
-}
-
-.bgimg-7 {
-    background-image: url("../images/volcano7.jpg");
-    min-height: 400px;
-} */
 
 .caption {
     position: absolute;
@@ -466,8 +436,6 @@ wrapper{
 
 
 
-
-
 /* stackOverFlowCSS */
 /* stackOverFlowCSS */
 /* stackOverFlowCSS */
@@ -501,9 +469,6 @@ wrapper{
                                             /* particlesMOD.CSS */
                                                 /* particlesMOD.CSS */
                                                     /* particlesMOD.CSS */
-/* =============================================================================
-   HTML5 CSS Reset Minified - Eric Meyer
-   ========================================================================== */
       
 
 body {
@@ -892,9 +857,6 @@ h3 {
 /* <--------PARALLAX CSS------------> */
 
 
-
-
-
 /* SOMETHING TO TRY */
 /* SOMETHING TO TRY */
 /* SOMETHING TO TRY */
@@ -921,10 +883,6 @@ wrapper{
 .myclass{
     z-index : 99999;
     }
-
-
-
-
 
 
     /* divider
@@ -1211,41 +1169,6 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-/* .bgimg-1 {
-    background-image: url("../images/volcano1.jpg");
-    min-height: 100%;
-}
-
-.bgimg-2 {
-    background-image: url("../images/volcano2.jpg");
-    min-height: 400px;
-}
-
-.bgimg-3 {
-    background-image: url("../images/volcano3.jpg");
-    min-height: 400px;
-}
-
-.bgimg-4 {
-    background-image: url("../images/volcano4.jpg");
-    min-height: 400px;
-}
-
-.bgimg-5 {
-    background-image: url("../images/volcano5.jpg");
-    min-height: 400px;
-}
-
-.bgimg-6 {
-    background-image: url("../images/volcano6.jpg");
-    min-height: 400px;
-}
-
-.bgimg-7 {
-    background-image: url("../images/volcano7.jpg");
-    min-height: 400px;
-} */
 
 .caption {
     position: absolute;
